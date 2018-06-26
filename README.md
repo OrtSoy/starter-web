@@ -1,7 +1,7 @@
 #Starter Web Project
 
 This is a simple website project for
-showing how to use Git and GitHub together. adding a line for rebaing example.
+showing how to use Git and GitHub together. adding a line for rebaing example., then more changes from myfreatuer branch.
 
 ## Introduction
 
