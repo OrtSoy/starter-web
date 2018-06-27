@@ -24,4 +24,4 @@ Please fork this repository and then issue pull Request for review
 
 ##Copyright 
 
-2018 git.Trianing.
+2018 git.Trianing. all rights reserved.
